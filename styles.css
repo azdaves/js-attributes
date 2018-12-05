@@ -1,0 +1,12 @@
+/* .red-giant {
+  color: red;
+  font-size: 60px;
+  font-family: sans-serif;
+} */
+
+.on {
+  background-color: lightgray;
+  color: darkgoldenrod;
+  font-size: 20px;
+  font-family: sans-serif;
+}
